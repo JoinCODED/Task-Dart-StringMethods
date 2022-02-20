@@ -14,10 +14,10 @@ My name is  JOHN and my last name length is 3
 
 ### 🍋 White Spaces
 
-Open those [docs](https://api.dart.dev/stable/2.16.1/dart-core/String-class.html) look for a string method that will get rid of the white spaces for us to achieve this output:
+Open those [docs](https://api.dart.dev/stable/2.16.1/dart-core/String-class.html) and look for a string method that will get rid of the white spaces for us to achieve this output:
 
 ```
-My name is  JOHN  and my last name length is 3
+My name is JOHN and my last name length is 3
 ```
 
 ### 🌶 Does My Last Name Starts With The Letter d?
