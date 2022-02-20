@@ -1,33 +1,31 @@
-# TASK-NAME
+# String Methods 🔧
 
-This is the template for tasks. These repos are the starting points and instructions for students to explore a concept.
+Given 1 variable
 
-## Instructions
-- Fork and clone [this repository](https://github.com/JoinCODED/{REPO_NAME}) to your `Development` folder.
+```dart
+String fullName = " John doe";
+```
 
-## Objective and end result
-- Write the objective of the task.
-- If there are any images, make sure you resize them to around 880px maximum width. **Don't add big images**
+Using string methods achieve this output:
 
-![screenshot](https://tenor.com/xNjE.gif)
+```
+My name is  JOHN and my last name length is 3
+```
 
+### 🍋 White Spaces
 
-### 🍋 The basic challenge title
+Open those [docs](https://api.dart.dev/stable/2.16.1/dart-core/String-class.html) look for a string method that will get rid of the white spaces for us to achieve this output:
 
-- Step 1
-- Step 2
-- Step 3
+```
+My name is  JOHN  and my last name length is 3
+```
 
+### 🌶 Does My Last Name Starts With The Letter d?
 
-### 🤼‍♂️ The hard challenge title
+Using the same docs, look for a method that checks if the last name: `doe` starts with the letter `d`.
 
-- Step 1
-- Step 2
-- Step 3
+Output:
 
-
-### 🌶 The Extreme challenge title 
-
-- Step 1
-- Step 2
-- Step 3
+```
+true
+```
